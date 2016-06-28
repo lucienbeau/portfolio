@@ -1,0 +1,1 @@
+!function(e){"use strict";e(".selected-projects").fitVids(),e(".title").on("click",function(){console.log("click"),e(this).next().slideToggle(),e(this).toggleClass("close")})}(jQuery,window,document);

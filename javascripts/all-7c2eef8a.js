@@ -1,1 +1,0 @@
-!function(e){"use strict";e(".selected-projects").fitVids()}(jQuery,window,document);
